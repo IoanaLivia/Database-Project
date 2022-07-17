@@ -1,5 +1,5 @@
 # Database-Project
-## Database Project developed in the first year of University for the Database course I took. 
+## Database Project developed in the first year of University for the Database course I took. SQL Code. 
 
 ### A company that offers trainings for employees is set to obtain deals for a limited edition of its products. The database concerns the management of the data that the deals need in order to be completed. 
 
